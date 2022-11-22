@@ -1,13 +1,6 @@
 clear 
 
-# SpicyTechsIO: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
-# git commit -m "babylon.html"
-# git status
-# git push  
-
-
 ## SEE : 
-## https://github.com/jmake/NovarePotential
 ##
 ## git branch -a
 ##
