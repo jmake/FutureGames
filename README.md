@@ -24,6 +24,10 @@ var createScene = function ()
     var BYL = "scene.babylon";
 ```
 
+[bonesSkeletons](https://doc.babylonjs.com/features/featuresDeepDive/mesh/bonesSkeletons)
+
+[Robot KUKA Agilus 10 Robotiq Rig](https://www.blenderkit.com/get-blenderkit/d243aea1-2b2f-4a1a-b35c-54f9e8849249/)
+
 [sandbox](https://sandbox.babylonjs.com/)
 
 [test05b2](https://playground.babylonjs.com/#AIU99G#1)
